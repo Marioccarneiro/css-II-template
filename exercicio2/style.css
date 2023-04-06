@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+header {
+    background-color: lightcoral;
+    height: 10vh;
+    position: sticky;
+    top: 0;
+}
+
+main {
+    background-color: lightblue;
+    height: 80vh;
+}
+
+footer {
+    background-color: lightgrey;
+    height: 10vh;
+}

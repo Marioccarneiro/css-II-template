@@ -30,8 +30,36 @@
     padding: 20px;
     background-color: white;
   }
-  
+ 
   footer{
     background-color: #abd1c6;
     padding: 20px;
+  }
+
+  footer:hover{
+    background-color: yellow;
+    color: black;
+  }
+
+  nav{
+    position: sticky;
+    top: 0;
+  }
+
+  aside{
+    position: absolute;
+    right: 2vh;
+    bottom: 0;
+  }
+
+  .fundo-verde:active {
+    background-color: green;  
+  }
+
+  p{
+    text-align: center;
+  }
+
+  main{
+    text-align: center;
   }
